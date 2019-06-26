@@ -1,0 +1,53 @@
+{
+    "user": [
+        
+        
+        {"id":"1",
+               "firstName": "Joe",
+               "lastName":"Doe",
+               "email": "joe@gmail.com",
+               "age": 30,
+               "companyId":"1"        },
+
+               {"id":"2",
+                "firstName": "Carl",
+                "lastName":"Free",
+                "email": "free@gmail.com",
+                "age": 32,
+                "companyId":"2"        },
+
+                {"id":"3",
+                    "firstName": "Josue",
+                    "lastName":"Crespo",
+                    "email": "jc@gmail.com",
+                    "age": 27,
+                    "companyId":"3"},
+
+                    {"id":"4",
+                        "firstName": "Lisset",
+                        "lastName":"Fresg",
+                        "email": "Fl@gmail.com",
+                        "age": 33,
+                        "companyId":"1" }
+                    
+                    ], 
+
+                    "companies": [
+                        { "id":"1",
+                         "name": "Apple",
+                         "decription": "Apple company for tech and conexion is american company est in 1990"    
+
+                    },
+                    { "id":"2",
+                        "name": "Google",
+                        "decription": "Googe company for tech and conexion is american company est in 1990"    
+
+                   },
+
+                   { "id":"3",
+                    "name": "CeemAash-Tech",
+                    "decription": "CeemAash-Tech company for tech and conexion is american company est in 2020npm"    
+
+               }
+                ]
+}
